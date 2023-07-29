@@ -20,5 +20,5 @@ I believe learning is a never-ending journey. To enhance my skills and stay upda
 
 ## ✉️ Let's Connect!
 
-Whether you want to collaborate on a project, learn more about my experiences, or just say hi, I'd love to hear from you! You can reach me at [Your Email](mailto:nikola.dev.cc@gmail.com)
+Whether you want to collaborate on a project, learn more about my experiences, or just say hi, I'd love to hear from you! You can reach me at [nikola.dev.cc@gmail.com](mailto:nikola.dev.cc@gmail.com).
 
