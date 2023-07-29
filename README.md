@@ -1,6 +1,4 @@
-# Hello, world! 👋
-
-I'm [Nikola Stojanovic], an iOS software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting user friendly native applications and my nights delving into the intricate world of data engineering.
+I'm Nikola Stojanovic, an iOS software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting user friendly native applications and my nights delving into the intricate world of data engineering.
 
 ## 📱 Mobile Software Engineer
 
