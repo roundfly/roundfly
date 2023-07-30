@@ -4,9 +4,9 @@ I'm Nikola Stojanović, an iOS software engineer by trade and a data engineering
 
 Throughout my career, I've had the opportunity to work on applications used by millions of people worldwide, such as [mobile.de](https://apps.apple.com/pl/app/mobile-de-car-market/id378563358) while it was owned by eBay. This vast and varied experience has given me the skills and confidence to handle projects of any scale and complexity. 
 
-I strongly believe that the best software is built on the principles of simplicity, efficiency, and robustness. To this end, I am highly adept at crafting efficient, high-performing applications that provide a seamless and intuitive user experience.
+I strongly believe in the balance of strong platform development and thoughtful product orientation in creating the best software. On one hand, as a platform developer, I'm skilled at modularizing applications and designing ergonomic, developer-friendly APIs. This technical proficiency ensures efficient and maintainable codebases, setting a solid foundation for any application's infrastructure.
 
-In my development process, testability of the code is paramount. I follow a disciplined approach to design, where business logic is meticulously decoupled from side-effects. This separation ensures that the code I write is not only highly testable but also easier to understand, maintain, and modify.
+On the other hand, I understand the importance of being product-oriented. I strive to empathize with the end-user, focusing on creating intuitive, user-friendly experiences. I take the time to understand user needs and pain points, and I incorporate this understanding into every aspect of my development process.
 
 ## 💻 Backend API & Web Development
 
