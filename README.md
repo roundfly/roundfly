@@ -1,4 +1,4 @@
-I'm Nikola Stojanovic, an iOS software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting user friendly native applications and my nights delving into the intricate world of data engineering.
+I'm Nikola Stojanović, an iOS software engineer by trade and a data engineering enthusiast by passion. I spend my days crafting user friendly native applications and my nights delving into the intricate world of data engineering.
 
 ## 📱 Mobile Software Engineer
 
@@ -28,12 +28,9 @@ My fascination lies not just in the mechanics of data collection and storage, bu
 
 I strongly believe that learning is an infinite journey, and one of the most effective ways to continue this journey is by working on personal projects. These projects provide a platform where I can explore new ideas, technologies, and methodologies. It's where I can push my boundaries, unafraid to make mistakes and eager to learn from them.
 
-Currently, I'm invested in an open-source initiative – a science quiz platform. This platform is designed to be accessible via native iOS and Android applications. The goal is to make learning science fun and engaging through gamification. It's an exciting blend of my passion for software engineering and education.
-
-Developing this project has been an enriching experience, giving me the opportunity to apply my skills in a practical context and explore areas of technology that I'm less familiar with. From managing the backend infrastructure to crafting user-friendly mobile interfaces, this project encapsulates all aspects of a full-fledged application.
+Currently, I'm invested in an open-source initiative – a [science quiz platform](https://github.com/SciQuizHero). This platform is designed to be accessible via native [iOS](https://github.com/SciQuizHero/SciQuizHero-iOS-client) and [Android](https://github.com/SciQuizHero/SciQuizHero-Android-client) applications. The goal is to make learning science fun and engaging through gamification. It's an exciting blend of my passion for software engineering and education.
 
 Feel free to take a look at the progress on this project and others on my GitHub profile. Any feedback or contributions to the code are highly appreciated!
-
 
 ## ✉️ Let's Connect!
 
