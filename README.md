@@ -32,7 +32,7 @@ Currently, I'm invested in an open-source initiative – a [science quiz platfor
 
 Feel free to take a look at the progress on this project and others on my GitHub profile. Any feedback or contributions to the code are highly appreciated!
 
-## ✉️ Let's Connect!
+## 🔗 Let's Connect!
 
 Whether you want to collaborate on a project, learn more about my experiences, or just say hi, I'd love to hear from you! You can reach me at [nikola.dev.cc@gmail.com](mailto:nikola.dev.cc@gmail.com).
 
